@@ -14,7 +14,7 @@ if(nivel === 'normal'){
 } else if(nivel === 'dificil'){
      criarMosquitoTempo = 1000
 
-  }else if(nivel === 'estremo'){
+  }else if(nivel === 'extremo'){
          criarMosquitoTempo = 750
   }
 
